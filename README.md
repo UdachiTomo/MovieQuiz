@@ -4,13 +4,13 @@ MovieQuiz - это приложение с квизами о фильмах из
 
 ## **Ссылки**
 
-[Макет Figma](https://www.figma.com/file/l0IMG3Eys35fUrbvArtwsR/YP-Quiz?node-id=34%3A243)
+- [Макет Figma](https://www.figma.com/file/l0IMG3Eys35fUrbvArtwsR/YP-Quiz?node-id=34%3A243)
 
-[API IMDb](https://imdb-api.com/api#Top250Movies-header)
+- [API IMDb](https://imdb-api.com/api#Top250Movies-header)
 
-[Шрифты](https://code.s3.yandex.net/Mobile/iOS/Fonts/MovieQuizFonts.zip)
+- [Шрифты](https://code.s3.yandex.net/Mobile/iOS/Fonts/MovieQuizFonts.zip)
+- [Скринкаст приложения](https://github.com/UdachiTomo/MovieQuiz/assets/118978580/cb97867e-c5ba-4049-aec3-1979ac87de48)
 
-[Скринкаст готового приложения](https://github.com/UdachiTomo/MovieQuiz/assets/118978580/96f715d9-6823-4072-9f74-d255fc97078b)
 
 ## **Описание приложения**
 
